@@ -1,0 +1,135 @@
+IP                   : 149.154.161.220
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+User Agent           : TelegramBot (like TwitterBot)
+Browser              : Unknown Browser
+Location             : London, United Kingdom, Europe
+GeoLocation(lat, lon): 51.5073509, -0.1277583
+Currency             : British Pound Sterling
+IP                   : 103.151.189.153
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+Browser              : Chrome
+Location             : Naduvannur, India, Asia
+GeoLocation(lat, lon): 11.485987, 75.7734862
+Currency             : Indian Rupee
+IP                   : 149.154.161.245
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+User Agent           : TelegramBot (like TwitterBot)
+Browser              : Unknown Browser
+Location             : London, United Kingdom, Europe
+GeoLocation(lat, lon): 51.5073509, -0.1277583
+Currency             : British Pound Sterling
+IP                   : 69.171.231.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Browser              : Unknown Browser
+Location             : Menlo Park, United States, North America
+GeoLocation(lat, lon): 37.4529598, -122.1817252
+Currency             : US Dollar
+IP                   : 103.151.189.153
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Browser              : Firefox
+Location             : Naduvannur, India, Asia
+GeoLocation(lat, lon): 11.485987, 75.7734862
+Currency             : Indian Rupee
+IP                   : 149.154.161.253
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+User Agent           : TelegramBot (like TwitterBot)
+Browser              : Unknown Browser
+Location             : London, United Kingdom, Europe
+GeoLocation(lat, lon): 51.5073509, -0.1277583
+Currency             : British Pound Sterling
+IP                   : 31.13.103.6
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Browser              : Unknown Browser
+Location             : Dublin, Ireland, Europe
+GeoLocation(lat, lon): 53.3165322, -6.3425318
+Currency             : Euro
+IP                   : 149.154.161.231
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+User Agent           : TelegramBot (like TwitterBot)
+Browser              : Unknown Browser
+Location             : London, United Kingdom, Europe
+GeoLocation(lat, lon): 51.5073509, -0.1277583
+Currency             : British Pound Sterling
+IP                   : 152.58.201.65
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1
+Browser              : Handheld Browser
+Location             : Kochi, India, Asia
+GeoLocation(lat, lon): 9.9312328, 76.2673041
+Currency             : Indian Rupee
+IP                   : 152.58.201.65
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1
+Browser              : Handheld Browser
+Location             : Kochi, India, Asia
+GeoLocation(lat, lon): 9.9312328, 76.2673041
+Currency             : Indian Rupee
+IP                   : 152.58.201.65
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1
+Browser              : Handheld Browser
+Location             : Kochi, India, Asia
+GeoLocation(lat, lon): 9.9312328, 76.2673041
+Currency             : Indian Rupee
+IP                   : 152.58.201.65
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1
+Browser              : Handheld Browser
+Location             : Kochi, India, Asia
+GeoLocation(lat, lon): 9.9312328, 76.2673041
+Currency             : Indian Rupee
+IP                   : 152.58.201.65
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1
+Browser              : Handheld Browser
+Location             : Kochi, India, Asia
+GeoLocation(lat, lon): 9.9312328, 76.2673041
+Currency             : Indian Rupee
+IP                   : 157.44.143.23
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_9 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1
+Browser              : Handheld Browser
+Location             : Navi Mumbai, India, Asia
+GeoLocation(lat, lon): 18.9832829, 73.108491
+Currency             : Indian Rupee
+IP                   : 157.44.143.23
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_9 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1
+Browser              : Handheld Browser
+Location             : Navi Mumbai, India, Asia
+GeoLocation(lat, lon): 18.9832829, 73.108491
+Currency             : Indian Rupee
